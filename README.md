@@ -1,4 +1,4 @@
-### 🧠 Network Intrusion Detection System (IDS)
+# 🧠 Network Intrusion Detection System (IDS)
 
 This project was developed as part of my internship at CodeAlpha.
 It’s a Python-based Intrusion Detection System (IDS) that monitors live network traffic, detects suspicious behavior, and logs alerts in real time.
@@ -24,21 +24,21 @@ Library: Scapy
 IDE: PyCharm
 Platform: Windows 10 / 11
 
-## ⚙️ Installation & Setup
+### ⚙️ Installation & Setup
 
-# Clone this repository:
+### Clone this repository:
 git clone https://github.com/Efforts-Payback/Network_Intrusion_Detection_System_CodeAlpha/edit/main/
 
 
-# Navigate into the folder:
+### Navigate into the folder:
 cd CodeAlpha_Network_Intrusion_Detection_System
 
 
-# Install required library:
+### Install required library:
 pip install scapy
 
 
-# Run the script (as Administrator):
+### Run the script (as Administrator):
 python python_ids_final_autosummary.py
 
 
@@ -49,7 +49,7 @@ python python_ids_final_autosummary.py
 --> A summary is automatically displayed when scanning stops.
 --> All detected alerts are logged into a .csv report file.
 
-# 📂 Output Example
+## 📂 Output Example
 
 🚀 Starting Python-Based Intrusion Detection System (IDS)...
 📊 Press Ctrl+C or stop execution to end scan.
