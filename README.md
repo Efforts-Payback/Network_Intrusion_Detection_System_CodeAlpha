@@ -69,7 +69,7 @@ Logs saved to: intrusion_log_2025-11-01_15-10-44.csv
 
 ## 🎯 Learning Outcomes
 
---> Understood the basics of network traffic analysis
+--> Understood the basics of network traffic analysis <br>
 --> Explored rule-based detection using Python
 --> Learned how to automate alert generation and logging
 --> Strengthened concepts in cybersecurity and networking
