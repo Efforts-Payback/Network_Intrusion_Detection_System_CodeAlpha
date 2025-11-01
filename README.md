@@ -5,18 +5,18 @@ It’s a Python-based Intrusion Detection System (IDS) that monitors live networ
 
 ## 🚀 Features
 
-📡 Captures live network packets using Scapy
-🔍 Detects potential threats such as:
-
-ICMP ping activity
-FTP login attempts
-Suspicious HTTP traffic
-
-DoS-like repeated requests from the same IP
-🧾 Automatically saves all alerts to a CSV file
-📊 Displays live traffic counters and a full summary when the scan stops
-✅ Works on Windows (requires Admin privileges)
-
+📡 Captures live network packets using Scapy <br>
+🔍 Detects potential threats such as: <br>
+ <br>
+ICMP ping activity <br>
+FTP login attempts <br>
+Suspicious HTTP traffic <br>
+ <br>
+DoS-like repeated requests from the same IP <br>
+🧾 Automatically saves all alerts to a CSV file <br>
+📊 Displays live traffic counters and a full summary when the scan stops <br>
+✅ Works on Windows (requires Admin privileges) <br>
+ <br>
 ## 🧩 Tools & Technologies
 
 Language: Python
