@@ -43,33 +43,33 @@ python python_ids_final_autosummary.py
 
 
 ## 🧠 How It Works
---> The system starts sniffing live network traffic.
---> Each packet is analyzed for suspicious activity.
---> Alerts are printed in real-time.
---> A summary is automatically displayed when scanning stops.
---> All detected alerts are logged into a .csv report file.
+--> The system starts sniffing live network traffic. <br>
+--> Each packet is analyzed for suspicious activity. <br>
+--> Alerts are printed in real-time. <br>
+--> A summary is automatically displayed when scanning stops. <br>
+--> All detected alerts are logged into a .csv report file. <br>
 
 ## 📂 Output Example
 
-🚀 Starting Python-Based Intrusion Detection System (IDS)...
-📊 Press Ctrl+C or stop execution to end scan.
-
-Packets: 250 | TCP: 120 | UDP: 80 | ICMP: 50 | Alerts: 3
-[2025-11-01 15:10:45] [ICMP] Ping detected from 192.168.0.12 -> 8.8.8.8
-[2025-11-01 15:10:50] [!] Possible DoS attack from 192.168.0.15 -> 192.168.0.1
-
-🧾 Intrusion Detection Summary:
-Total Packets: 255
-TCP: 122
-UDP: 81
-ICMP: 52
-Alerts Detected: 3
-
-Logs saved to: intrusion_log_2025-11-01_15-10-44.csv
+🚀 Starting Python-Based Intrusion Detection System (IDS)... <br>
+📊 Press Ctrl+C or stop execution to end scan. <br>
+<br>
+Packets: 250 | TCP: 120 | UDP: 80 | ICMP: 50 | Alerts: 3 <br>
+[2025-11-01 15:10:45] [ICMP] Ping detected from 192.168.0.12 -> 8.8.8.8 <br>
+[2025-11-01 15:10:50] [!] Possible DoS attack from 192.168.0.15 -> 192.168.0.1 <br>
+<br>
+🧾 Intrusion Detection Summary: <br>
+Total Packets: 255 <br>
+TCP: 122 <br>
+UDP: 81 <br>
+ICMP: 52 <br>
+Alerts Detected: 3 <br>
+<br>
+Logs saved to: intrusion_log_2025-11-01_15-10-44.csv <br>
 
 ## 🎯 Learning Outcomes
 
 --> Understood the basics of network traffic analysis <br>
---> Explored rule-based detection using Python
---> Learned how to automate alert generation and logging
---> Strengthened concepts in cybersecurity and networking
+--> Explored rule-based detection using Python <br>
+--> Learned how to automate alert generation and logging <br>
+--> Strengthened concepts in cybersecurity and networking <br>
