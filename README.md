@@ -30,7 +30,7 @@ git clone https://github.com/Efforts-Payback/Network_Intrusion_Detection_System_
 
 
 ### Navigate into the folder:
-cd CodeAlpha_Network_Intrusion_Detection_System
+cd Network_Intrusion_Detection_System_CodeAlpha
 
 
 ### Install required library:
@@ -38,7 +38,7 @@ pip install scapy
 
 
 ### Run the script (as Administrator):
-python python_ids_final_autosummary.py
+python ids-monitor .py
 
 
 ## 🧠 How It Works
